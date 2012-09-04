@@ -69,7 +69,7 @@ How to use
    Standards directory (eg.: /usr/share/php/PHP/CodeSniffer/Standards)
 
         cd /usr/share/php/PHP/CodeSniffer/Standards
-        git clone https://github.com/klaussilveira/phpcs-psr PSR
+        git clone git://github.com/Rud5G/phpcs-psr.git PSR
 
 3. Set PSR as the default sniff for CodeSniffer:
 
